@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="szu.hyx.whale.whaleshareanim.MainActivity">
+
+
+    <szu.hyx.whale.whaleshareanim.WhaleShareView
+        android:layoutAnimation="@anim/layout_animation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:background="@mipmap/share_share_qq_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+
+        <ImageView
+            android:background="@mipmap/share_share_qzone_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+        <ImageView
+            android:background="@mipmap/share_share_wechat_friend_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+        <ImageView
+            android:background="@mipmap/share_share_wechat_moments_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+        <ImageView
+            android:background="@mipmap/share_share_weibo_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+        <ImageView
+            android:background="@mipmap/share_share_yx_friend_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+        <ImageView
+            android:background="@mipmap/share_share_yx_moments_nor_ic"
+            android:layout_width="@dimen/image_size"
+            android:layout_height="@dimen/image_size" />
+    </szu.hyx.whale.whaleshareanim.WhaleShareView>
+
+</LinearLayout>

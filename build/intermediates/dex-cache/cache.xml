@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/fb96927958ef8de7ede0b78526f75c77ea3174e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_d1634266a943615c42c73637bca4355276027e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/e9e37717249a5c4517c79cb0d9a40ee0ade4fd83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_a5b65d7ed85f321848fc989560baab0f60a24351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/9c96e5d389ee2f3695b9f1f2e96c429ef71bc187/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_d64c3508d8a5ec5a195bc3563b66ceff2c3f8d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/c6e0fe8fe0fae271934c84c9aac05ed718f1b43b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_b0090f79c843e33e559cd1eae382b6d15608bd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397,26.0.1/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_05f82b0003451e4493d8e4b5562d93f82632561c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/7442a00b31d8be34b4c2bcf3e37ea7be971bee6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_71e8bf2face266be6d27a4802101fd9473c176a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/71e898f78a036f86b0c47118de25685adadc4211/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_cb6dcc837ee6727e81cc2cc53c78de6a9e37a507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/1a3452832b0612f727cef34424dc426864625305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_e8db81e16abad037e7dac5e5cbe4eb8abd5b6efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/09a87cf9546bb2f687a6ed2cfb40ed41eafccbe4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_924209117ca592448bf003b500582134c99089c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397,26.0.1/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1428455e19f74a80e7a43fb053f036ec1fa18e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/c22f1b3955973bf3c01db93c51d842c075388340/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_4328d9ddc8595a3768d956f361372275adccff70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganl/.android/build-cache/7abde26d7d12735efb8dd1e47ff524c72da61996/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ganl/WhaleShareAnim/app/build/intermediates/pre-dexed/debug/classes_51a47b9ab502246fcc43ad22763e30d7657e916a.jar" />
+    </item>
+
+</items>
